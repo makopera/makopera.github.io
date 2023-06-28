@@ -1,0 +1,142 @@
+#-------------------------------
+# Site Settings
+title: Michal Kopera
+logo: # You can add own logo. For example '/images/logo.png'.
+description: Associate Professor of Computational Mathematics
+color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
+
+
+#-------------------------------
+# Navigation Settings
+menu__settings:
+  menu__items:
+    - title: 'Home'
+      url: '/'
+    - title: 'Blog'
+      url: '/blog/'
+    - title: 'Authors'
+      url: '/authors/'
+    - title: 'Videos'
+      url: '/videos/'
+    - title: 'Pages'
+      submenu:
+      - url: '/about/'
+        title: 'About'
+      - url: '/contact/'
+        title: 'Contact'
+      - url: '/elements/'
+        title: 'Elements'
+
+
+#-------------------------------
+# Hero Settings
+hero:
+  enable: true
+  hero__title: Michal A. Kopera
+  hero__description: Associate Professor of Computational Mathematics
+  hero__image: # You can add hero image. For example '/images/06.jpg'
+
+
+#-------------------------------
+# Author Global Settings
+author:
+  author__name: Michal Kopera
+  author__bio: I teach computational and applied mathematics at Boise State University and build numerical models of ocean and atmosphere. 
+  author__avatar: /images/Kopera_Michal.jpg
+
+
+#-------------------------------
+# Blog Section Settings
+blog__settings:
+  enable: true
+  blog__title: Latest Posts
+  blog__description:
+
+
+#-------------------------------
+# Videos Section Settings
+videos__settings:
+  enable: true
+  videos__title: Latest Videos
+  videos__description:
+
+
+#-------------------------------
+# Tag Section Settings
+tag__settings:
+  enable: true
+  tag: travel # To display the tag section, specify your favorite tag.
+
+
+#-------------------------------
+# Author Section Settings
+author__section:
+  enable: true
+  author__section__title: Hello, my name is Dr. Michal Kopera. I’m a math professor at Boise State.
+  author__section__description: I am passionate about helping students grow their interest in computational mathematics. I work with graduate students in the PhD in Computing program at Boise State. In my research group, we build numerical models of multiscale ocean processes. I like to dabble in other aspects of computational mathematics and explore the intersection of math and art.
+  aurhor__section__button__text: More About Me
+  aurhor__section__button__link: /about
+  author__section__big__image: /images/Kopera_Michal.jpg
+  author__section__small__image: /images/D_2202_028_099.jpg
+
+
+#-------------------------------
+# Newsletter Settings
+mailchimp__settings:
+  enable: false
+  mailchimp__title: Get interesting news
+  mailchimp__description: Subscribe to our newsletter and we’ll send you the emails of latest posts.
+  mailchimp__identifier: frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3 # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
+  mailchimp__input__text: Your email address
+  mailchimp__button__text: Subscribe
+  mailchimp__background__image: /images/subscribe-bg.jpg
+
+
+#-------------------------------
+# Footer Settings
+footer__description: There is two necessary things in educators life: Rock'n'roll and learning outcomes! 
+
+
+# Social Links
+social:
+- {icon: "twitter", link: "https://twitter.com/mkopera1"}
+- {icon: "github", link: "https://github.io/makopera"}
+- {icon: "linkedin", link: "https://www.linkedin.com/in/michal-kopera-5159b21/"}
+- {icon: "facebook", link: "https://facebook.com/michal.kopera"}
+#- {icon: "vimeo", link: "https://vimeo.com"}
+
+# Example of adding a new link to the footer - {icon: "instagram", link: "https://instagram.com"}
+# Other icons can be found at https://ionicons.com/v4/
+
+
+# Footer Navigation
+footer__menu__settings:
+  menu__items:
+    - title: 'Home'
+      url: '/'
+    - title: 'About'
+      url: '/about/'
+    - title: 'Contact'
+      url: '/contact/'
+    - title: 'Elements'
+      url: '/elements/'
+
+
+#-------------------------------
+# Contact Settings
+contact:
+  email: xbjvrazr # Add your form_id
+  description: Please send me a message using the form below. I will reach back as soon as I can. You can also find me at Boise State University in Mathematics Building room MB233B. Mailing address: 1910 University Drive, Boise, ID 83725
+
+# NOTE
+# Mria theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
+
+
+#-------------------------------
+# Comment Section (Disqus)
+disqus-identifier: anvod-studio-test # Add your shortname for Disqus Comment. For example anvodstudio-demo
+
+
+#-------------------------------
+# Google Analytics
+google-analytics: # Add your GA Tracking Id
