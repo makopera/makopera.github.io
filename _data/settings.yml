@@ -12,20 +12,33 @@ menu__settings:
   menu__items:
     - title: 'Home'
       url: '/'
+    - title: 'Research'
+      submenu:
+      - url: '/students/'
+        title: 'Students'
+      - url: '/projects/'
+        title: 'Projects'
+      - url: '/publications/'
+        title: 'Publications'
+#    - title: 'Research'
+#      url: '/research/'
+    - title: 'Teaching'
+      url: '/teaching/'
     - title: 'Blog'
       url: '/blog/'
-    - title: 'Authors'
-      url: '/authors/'
+
     - title: 'Videos'
       url: '/videos/'
-    - title: 'Pages'
+    - title: 'More'
       submenu:
       - url: '/about/'
-        title: 'About'
+        title: 'About Me'
+#      - url: '/students/'
+#        title: 'Students'
       - url: '/contact/'
         title: 'Contact'
-      - url: '/elements/'
-        title: 'Elements'
+      #- url: '/elements/'
+      #  title: 'Elements'
 
 
 #-------------------------------
@@ -56,7 +69,7 @@ blog__settings:
 #-------------------------------
 # Videos Section Settings
 videos__settings:
-  enable: true
+  enable: false
   videos__title: Latest Videos
   videos__description:
 
@@ -65,7 +78,7 @@ videos__settings:
 # Tag Section Settings
 tag__settings:
   enable: true
-  tag: travel # To display the tag section, specify your favorite tag.
+  tag: research # To display the tag section, specify your favorite tag.
 
 
 #-------------------------------
@@ -94,7 +107,7 @@ mailchimp__settings:
 
 #-------------------------------
 # Footer Settings
-footer__description: There is two necessary things in educators life: Rock-and-roll and learning outcomes.
+footer__description: "There are two necessary things in an educator's life: rock-n-roll and learning outcomes."
 
 
 # Social Links
@@ -126,7 +139,7 @@ footer__menu__settings:
 # Contact Settings
 contact:
   email: xbjvrazr # Add your form_id
-  description: Please send me a message using the form below. I will reach back as soon as I can. You can also find me at Boise State University in Mathematics Building room MB233B. Mailing address: 1910 University Drive, Boise, ID 83725
+  description: 'Please send me a message using the form below. I will reach back as soon as I can. You can also find me at Boise State University in Mathematics Building room MB233B. Mailing address: 1910 University Drive, Boise, ID 83725'
 
 # NOTE
 # Mria theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
