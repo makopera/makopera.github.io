@@ -8,4 +8,4 @@ website: https://www.google.com
 twitter: https://twitter.com/mkopera1
 facebook: https://www.facebook.com/michal.kopera
 ---
-I am an Associate Professor of Computational Mathematics at Boise State University.
+Associate Professor of Computational Mathematics at Boise State University.
