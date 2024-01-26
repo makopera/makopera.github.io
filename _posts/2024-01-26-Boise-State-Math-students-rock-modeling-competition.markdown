@@ -4,7 +4,7 @@ title: BSU Math students rock at a modeling competition
 description:
 date: 2024-01-26 11:52:00 +0800
 author: michal
-image: '/images/SCUDEM_2023.jpg'
+image: '/images/SCUDEM_2023.png'
 tags: ["teaching", "computational math"]
 tags_color: '#b25642'
 featured: yes
@@ -23,7 +23,7 @@ Melita, Tayah and Carson were working with Brian Kyanjo, PhD in Computing studen
 
 ## SCUDEM competition
 
-SCUDEM stands for SIMIODE Challenge Using Differential Equations Modeling. It is a student group international modeling challenge that runs over multiple days culminating in a 10 minute video which is reviewed by at least 3 judges. SCUDEM is organized by SIMIODE - A Systemic Initiative for Modeling Investigations and Opportunities with Differential Equations.
+SCUDEM stands for SIMIODE Challenge Using Differential Equations Modeling. It is a student group international modeling challenge that runs over multiple days culminating in a 10 minute video which is reviewed by at least three judges. SCUDEM is organized by SIMIODE - A Systemic Initiative for Modeling Investigations and Opportunities with Differential Equations.
 
 Teams choose one of the Challenge Problems provided in the areas of
 * physics/engineering,
