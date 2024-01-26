@@ -30,6 +30,7 @@ Teams choose one of the Challenge Problems provided in the areas of
 * physics/engineering,
 * chemistry/life sciences,
 * social sciences/humanities,
+
 and develop a model using differential or difference equations and a presentation.
 
 
