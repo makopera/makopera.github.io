@@ -16,6 +16,8 @@ I am an Associate Professor in the Department of Mathematics at Boise State Univ
 
 I am interested in computational and applied mathematics, specifically numerical methods for ocean modeling, high performance scientific computing, computational fluid dynamics, adaptive mesh refinement, and scientific software development. I use element-based Galrking methods (Finite Elements, Spectral Elements, Discontinuous Galerkin). 
 
-<iframe src="https://www.youtube.com/watch?v=H9-A-nwV-54" loading="lazy" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+video_embed: https://www.youtube.com/watch?v=H9-A-nwV-54
+
+<iframe src="https://www.youtube.com/watch?v=H9-A-nwV-54" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
 
