@@ -5,9 +5,46 @@
         <description>Associate Professor of Computational Mathematics</description>
         <link>http://localhost:4000/</link>
         <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 22 Aug 2023 13:53:32 -0600</pubDate>
-        <lastBuildDate>Tue, 22 Aug 2023 13:53:32 -0600</lastBuildDate>
+        <pubDate>Fri, 09 Feb 2024 09:45:29 -0700</pubDate>
+        <lastBuildDate>Fri, 09 Feb 2024 09:45:29 -0700</lastBuildDate>
         <generator>Jekyll v3.9.3</generator>
+        
+            <item>
+                <title>BSU Math students rock at a modeling competition</title>
+                <description>&lt;h1 id=&quot;meritorious-award&quot;&gt;Meritorious Award&lt;/h1&gt;
+
+&lt;p&gt;Three of Boise State students (Melita Efta, Tayah Brodt, Carson Tiegs) won a Meritorious Award for their submission to &lt;a href=&quot;https://qubeshub.org/community/groups/scudem&quot;&gt;SCUDEM 2023&lt;/a&gt; mathematical modeling with differential equations competition. The team was working on modeling the impact of kangaroo mother care on the wellbeing of the infant, a problem which has a direct analogy with human mother-infant dynamics. They created a mathematical model of the interactions of mother and infant, and used it to find out whether it is possible to skip care for regular intervals, and what is the impact of such schedule change on the wellbeing of a child. You can see their video submission &lt;a href=&quot;https://youtu.be/fArSWldONAU&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/SCUDEM_team2.png&quot; alt=&quot;The image shows two groups of students discussing math modeling problems&quot; /&gt;
+&lt;em&gt;Math Modeling Section cracking modeling problems&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;siam-bsu-math-modeling-section&quot;&gt;SIAM BSU Math Modeling Section&lt;/h2&gt;
+&lt;p&gt;Melita, Tayah and Carson were working with Brian Kyanjo, PhD in Computing student at Boise State, who was their coach in this competition. The team was part of the &lt;a href=&quot;https://www.boisestate.edu/math/siam-mms/&quot;&gt;Math Modeling Section&lt;/a&gt; of the Society for Industrial and Applied Mathematics Boise State University Student Chapter, led by Yao Gahounzo, anotehr PhD in Computing student. The Math Modeling Section is a new initiative of the SIAM BSU chapter, which brings together students interested in mathematical modeling regardless of their major or level of mathematical education. THe awarded team members brought different skills to the table, including differential equations, programming, and communication. Not all of them completed the MATH 333 Ordinary Differential Equations course! Building on the success on one of our teams, MMS plans on recruiting mode students in the Spring 2024 semester and prepare for the SCUDEM 2024 competition.&lt;/p&gt;
+
+&lt;h2 id=&quot;scudem-competition&quot;&gt;SCUDEM competition&lt;/h2&gt;
+
+&lt;p&gt;SCUDEM stands for SIMIODE Challenge Using Differential Equations Modeling. It is a student group international modeling challenge that runs over multiple days culminating in a 10 minute video which is reviewed by at least three judges. SCUDEM is organized by SIMIODE - A Systemic Initiative for Modeling Investigations and Opportunities with Differential Equations.&lt;/p&gt;
+
+&lt;p&gt;Teams choose one of the Challenge Problems provided in the areas of&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;physics/engineering,&lt;/li&gt;
+  &lt;li&gt;chemistry/life sciences,&lt;/li&gt;
+  &lt;li&gt;social sciences/humanities,&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;and develop a model using differential or difference equations and a presentation.&lt;/p&gt;
+
+</description>
+                <pubDate>Thu, 25 Jan 2024 20:52:00 -0700</pubDate>
+                <link>http://localhost:4000/blog/boise-state-math-students-rock-modeling-competition</link>
+                <guid isPermaLink="true">http://localhost:4000/blog/boise-state-math-students-rock-modeling-competition</guid>
+                
+                <category>teaching</category>
+                
+                <category>computational math</category>
+                
+                
+            </item>
         
             <item>
                 <title>First day of MATH265</title>

@@ -18,4 +18,4 @@ I am interested in computational and applied mathematics, specifically numerical
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/H9-A-nwV-54?si=BHHGd7ncr-ddzzrq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
+You can check out my Department of Mathematics faculty page [here](https://www.boisestate.edu/math/faculty-and-staff/faculty/michalkopera/), and PhD in Computing page [here](https://www.boisestate.edu/computing/directory/faculty-directory-2/michal-kopera/).
