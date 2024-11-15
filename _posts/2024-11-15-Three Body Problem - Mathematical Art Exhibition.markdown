@@ -4,7 +4,7 @@ title: "Mathematical Art Exhibition: Visualizing the Three-Body Problem"
 description:
 date: 2024-11-15 01:40:00 +0800
 author: michal
-image: '/images/3BP_2.png'
+image: '/images/3BP_3.png'
 tags: ["teaching", "computational math"]
 tags_color: '#b25642'
 featured: yes
@@ -18,7 +18,7 @@ This semester, I had the privilege of guiding my MATH 365: Introduction to Compu
 ## Mathematical Art
 The three-body problem, with its chaotic and unpredictable gravitational interactions, is a classic challenge in mathematics and physics. In our course, we developed numerical solvers for differential equations to approximate the motion of these three bodies. But we didn’t stop there. My students took the results of their computations—those intricate trajectories—and turned them into dynamic art.
 
-![The image shows students exploting mathematical art exhibition](/images/3BP_3.png)
+![The image shows students exploting mathematical art exhibition](/images/3BP_2.png)
 *Math interactions in an arts space*
 
 I was thrilled to see them breathe life into the mathematics. They plotted the celestial orbits, transforming them into stunning visualizations that ranged from glowing, interwoven paths to mesmerizing animations. The beauty of the three-body problem lies in its chaos, and yet, when visualized, it reveals a surprising elegance.
