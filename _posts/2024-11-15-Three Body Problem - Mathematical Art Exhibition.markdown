@@ -4,7 +4,7 @@ title: "Mathematical Art Exhibition: Visualizing the Three-Body Problem"
 description:
 date: 2024-11-15 01:40:00 +0800
 author: michal
-image: '/images/3BP_1.png'
+image: '/images/3BP_2.png'
 tags: ["teaching", "computational math"]
 tags_color: '#b25642'
 featured: yes
@@ -12,7 +12,7 @@ featured: yes
 
 This semester, I had the privilege of guiding my MATH 365: Introduction to Computational Mathematics students through an incredible journey—one that combined numerical analysis, artistic creativity, and the timeless intrigue of the Three-Body Problem. The result? A breathtaking Mathematical Art Exhibition at Bose States Luminary, where their work was celebrated by students, faculty, and community members alike.
 
-![The image shows students exploting mathematical art exhibition](/images/3BP_2.png)
+![The image shows students exploting mathematical art exhibition](/images/3BP_1.png)
 *Mathematical explorations in the Luminary*
 
 ## Mathematical Art
