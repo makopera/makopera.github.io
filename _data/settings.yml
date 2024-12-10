@@ -48,7 +48,7 @@ hero:
   enable: true
   hero__title: Michal A. Kopera
   hero__description: Associate Professor of Computational Mathematics
-  hero__image: /images/michal_kopera.jpg'
+  hero__image: #/images/michal_kopera.jpg'
 
 
 #-------------------------------
