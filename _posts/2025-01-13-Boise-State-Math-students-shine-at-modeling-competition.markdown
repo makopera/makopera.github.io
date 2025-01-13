@@ -4,7 +4,7 @@ title: BSU Math students shine at a modeling competition
 description:
 date: 2025-01-13 11:52:00 +0800
 author: michal
-image: '/images/SCUDEM_2023.png'
+image: '/images/scudem_team_2024.jpg'
 tags: ["teaching", "computational math"]
 tags_color: '#b25642'
 featured: yes
@@ -12,8 +12,8 @@ featured: yes
 
 One of the most rewarding aspects of my job is witnessing students rise to the challenge of applying their knowledge to solve real-world problems. This year, Boise State students Antonio Cariello and Max Hewes, coached by PhD in Computing graduate student Gus Tropea, did exactly that at [SCUDEM](https://qubeshub.org/community/groups/scudem/overview) (SIMIODE Challenge Using Differential Equations Modeling). Their exceptional teamwork, creativity, and mathematical rigor earned them an *Outstanding Award* for their solution to the "Sweet Tooth and Heavy Metal" problem.
 
-![The image shows two groups of students discussing math modeling problems](/images/SCUDEM_team2.png)
-*Math Modeling Section cracking modeling problems*
+![The image shows a certificate for outstanding achievement at SCUDEM competition for Antonio Cariello and Max Hewes coached by Gus Tropea](/images/scudem_2024)
+*Certificate for Outstanding Achievement*
 
 
 
