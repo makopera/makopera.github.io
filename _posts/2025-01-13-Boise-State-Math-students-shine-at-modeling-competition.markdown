@@ -10,29 +10,24 @@ tags_color: '#b25642'
 featured: yes
 ---
 
-# Meritorious Award
-
-Three of Boise State students (Melita Efta, Tayah Brodt, Carson Tiegs) won a Meritorious Award for their submission to [SCUDEM 2023](https://qubeshub.org/community/groups/scudem) mathematical modeling with differential equations competition. The team was working on modeling the impact of kangaroo mother care on the wellbeing of the infant, a problem which has a direct analogy with human mother-infant dynamics. They created a mathematical model of the interactions of mother and infant, and used it to find out whether it is possible to skip care for regular intervals, and what is the impact of such schedule change on the wellbeing of a child. You can see their video submission [here](https://youtu.be/fArSWldONAU).
+One of the most rewarding aspects of my job is witnessing students rise to the challenge of applying their knowledge to solve real-world problems. This year, Boise State students Antonio Cariello and Max Hewes, coached by PhD in Computing graduate student Gus Tropea, did exactly that at [SCUDEM](https://qubeshub.org/community/groups/scudem/overview) (SIMIODE Challenge Using Differential Equations Modeling). Their exceptional teamwork, creativity, and mathematical rigor earned them an *Outstanding Award* for their solution to the "Sweet Tooth and Heavy Metal" problem.
 
 ![The image shows two groups of students discussing math modeling problems](/images/SCUDEM_team2.png)
 *Math Modeling Section cracking modeling problems*
 
 
 
-## SIAM BSU Math Modeling Section
-Melita, Tayah and Carson were working with Brian Kyanjo, PhD in Computing student at Boise State, who was their coach in this competition. The team was part of the [Math Modeling Section](https://www.boisestate.edu/math/siam-mms/) of the Society for Industrial and Applied Mathematics Boise State University Student Chapter, led by Yao Gahounzo, anotehr PhD in Computing student. The Math Modeling Section is a new initiative of the SIAM BSU chapter, which brings together students interested in mathematical modeling regardless of their major or level of mathematical education. THe awarded team members brought different skills to the table, including differential equations, programming, and communication. Not all of them completed the MATH 333 Ordinary Differential Equations course! Building on the success on one of our teams, MMS plans on recruiting mode students in the Spring 2024 semester and prepare for the SCUDEM 2024 competition.
+## What is SCUDEM
+SCUDEM is a global competition designed to push students to model complex phenomena using differential or difference equations. Teams have a limited time to develop their models and must present their findings in a 10-minute video for evaluation by a panel of judges. Antonio and Max's problem of choice was both timely and impactful: they were tasked with modeling how heavy metals in chocolate could accumulate in the human body depending on consumption patterns.
 
-## SCUDEM competition
+The *Sweet Tooth and Heavy Metal* problem challenged the students to explore the long-term dynamics of heavy metal bioaccumulation, factoring in varying levels of chocolate consumption. They were also asked to consider the unique patterns of children who might binge on candy during holidays or birthdays, exploring how these behaviors might differ based on timing and parental strategies for candy consumption.
 
-SCUDEM stands for SIMIODE Challenge Using Differential Equations Modeling. It is a student group international modeling challenge that runs over multiple days culminating in a 10 minute video which is reviewed by at least three judges. SCUDEM is organized by SIMIODE - A Systemic Initiative for Modeling Investigations and Opportunities with Differential Equations.
+## Innovative Modeling by Antonio and Max
+Antonio and Max developed a sophisticated model incorporating differential equations to track the accumulation and clearance of heavy metals in the human body. Their work didn't stop at presenting general trends-they also provided insights into practical questions, such as whether spreading out candy consumption mitigates health risks compared to binge eating. 
 
-Teams choose one of the Challenge Problems provided in the areas of
-* physics/engineering,
-* chemistry/life sciences,
-* social sciences/humanities,
+This achievement reflects not only Antonio and Max's talent and dedication but also the exceptional mentorship provided by Gus Tropea. As a graduate student in Boise State's [PhD in Computing](https://www.boisestate.edu/computing/phd/) program, Gus brought both expertise and enthusiasm to his role as a coach, guiding the team through the modeling process and helping them refine their presentation.
 
-and develop a model using differential or difference equations and a presentation.
-
-
+## Celebrating Success and the Power of Mathematics
+Competitions like SCUDEM underscore the power of mathematics to tackle pressing real-world challenges. They also provide invaluable opportunities for students to hone their problem-solving skills, collaborate as a team, and communicate their findings effectively. I'm incredibly proud of Antonio, Max, and Gus for their outstanding achievement. Their success is a testament to the strength of Boise State's students and the importance of fostering hands-on, experiential learning in STEM disciplines.
 
 
