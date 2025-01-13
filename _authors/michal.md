@@ -1,10 +1,10 @@
 ---
 username: michal
 name: Michal Kopera
-image: '/images/Kopera_Michal.jpg'
+image: '/images/michal_kopera.jpg'
 cover:
 location: Boise, ID, United States
-website: https://www.google.com
+website: https://makopera.github.io
 twitter: https://twitter.com/mkopera1
 facebook: https://www.facebook.com/michal.kopera
 ---

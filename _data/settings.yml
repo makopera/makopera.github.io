@@ -1,7 +1,7 @@
 #-------------------------------
 # Site Settings
 title: Michal Kopera
-logo: # You can add own logo. For example '/images/logo.png'.
+logo: #/images/michal_kopera.jpg
 description: Associate Professor of Computational Mathematics
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
@@ -48,7 +48,7 @@ hero:
   enable: true
   hero__title: Michal A. Kopera
   hero__description: Associate Professor of Computational Mathematics
-  hero__image: # You can add hero image. For example '/images/06.jpg'
+  hero__image: #/images/michal_kopera.jpg'
 
 
 #-------------------------------
@@ -56,7 +56,7 @@ hero:
 author:
   author__name: Michal Kopera
   author__bio: I teach computational and applied mathematics at Boise State University and build numerical models of ocean and atmosphere. 
-  author__avatar: /images/Kopera_Michal.jpg
+  author__avatar: /images/michal_kopera.jpg
 
 
 #-------------------------------
@@ -90,7 +90,7 @@ author__section:
   author__section__description: I am passionate about helping students grow their interest in computational mathematics. I work with graduate students in the PhD in Computing program at Boise State. In my research group, we build numerical models of multiscale ocean processes. I like to dabble in other aspects of computational mathematics and explore the intersection of math and art.
   aurhor__section__button__text: More About Me
   aurhor__section__button__link: /about
-  author__section__big__image: /images/Kopera_Michal.jpg
+  author__section__big__image: /images/IMG_2612.jpg
   author__section__small__image: /images/D_2202_028_099.jpg
 
 
