@@ -25,7 +25,7 @@ Antone's success reflects the vibrant research community we've cultivated at Boi
 
 Congratulations, Antone, on this well-deserved recognition, and thank you for exemplifying the excellence and innovation we strive for at Boise State, in the Math Department, and in my research group. I am excited to continue working with you and witness your success and groundbreaking contributions!
 
-##References
+### References
 Foucart, C., Charous, A., & Lermusiaux, P. F. (2023). Deep reinforcement learning for adaptive mesh refinement. Journal of Computational Physics, 491, 112381.
 
 
