@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Boise State Students Shine in International SCUDEM Competition"
+title: BSU Math students shine at a modeling competition
 description:
 date: 2025-01-13 01:40:00 +0800
 author: michal
 image: '/images/scudem_team_2024.jpg'
-tags: ["teaching", "computational math", 'differential equations"]
+tags: ["teaching", "computational math"]
 tags_color: '#b25642'
 featured: yes
 ---
