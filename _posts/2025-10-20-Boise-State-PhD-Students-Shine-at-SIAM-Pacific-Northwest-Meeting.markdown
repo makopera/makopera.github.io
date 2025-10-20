@@ -22,10 +22,8 @@ The students gave excellent talks and poster presentations on their doctoral res
 
 ![Tapiwa Mwila is presentin her work to a judge at the SIAM PNW meeting](/images/tapiwa_poster.jpg)
 
-I was especially proud to see Olayemi (Yemi) Adeyemi recognized with an Outstanding Poster Presentation Award for her poster titled “High-Order Galerkin vs. Traditional Methods: A Multi-Resolution Atmospheric Modeling.”
-As one of Yemi’s advisors, along with Antone Chacartegui—who also presented his research at the meeting—I was thrilled to see both contributing so strongly to the visibility and reputation of our program.
+I was especially proud to see Olayemi (Yemi) Adeyemi recognized with an Outstanding Poster Presentation Award for her poster titled “High-Order Galerkin vs. Traditional Methods: A Multi-Resolution Atmospheric Modeling.” My other mentee, Antone Chacartegui, also presented at the conference. I was thrilled to see both of them contributing so strongly to the visibility and reputation of our program.
 
-
-Overall, Boise State was well represented at the meeting, and our students’ professionalism and enthusiasm reflected beautifully on the Ph.D. in Computing program and the Mathematics Department.
+Overall, Boise State was well represented at the meeting, and our students’ professionalism and enthusiasm reflected well on the Ph.D. in Computing program and the Mathematics Department.
 
 Learn more about the meetihg [here](https://sites.google.com/view/2025siampnwconference/home).
