@@ -2,7 +2,7 @@
 layout: post
 title: "Boise State Ph.D. Students Shine at SIAM Pacific Northwest Meeting"
 description:
-date: 2025-10-20 01:40:00 +0800
+date: 2025-10-07 01:40:00 +0800
 author: michal
 image: '/images/yemi_poster.jpg'
 tags: ["research", "computing", "students"]
