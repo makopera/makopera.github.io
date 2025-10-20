@@ -5,9 +5,9 @@ description:
 date: 2025-10-20 01:40:00 +0800
 author: michal
 image: '/images/yemi_poster.jpg'
-tags: ["research", "computational math"]
+tags: ["research", "computing", "students"]
 tags_color: '#b25642'
-featured: no
+featured: yes
 ---
 
 
