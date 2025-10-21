@@ -12,7 +12,7 @@ featured: yes
 
 
 Last weekend, I had the pleasure of seeing several of our Ph.D. in Computing students represent Boise State at the 5th Biennial Meeting of the Pacific Northwest Section of SIAM, hosted in Seattle.
-Our group included Patricia Azike, Olayemi Adeyemi, Demond Boateng, Sandra Babyale, Denis Mulumba, Dave Johnson, Stanley Akor, Antone Chacartegui, Agnes Namyalo, Nathan Sundquist, and Tapiwa Mwila.
+Our group included Olayemi Adeyemi, Particia Azike, Sandra Babyale, Demond Boateng, Antone Chacartegui, Dave Johnson, Denis Mulumba, Tapiwa Mwila, Agnes Namyalo, and Nathan Sundquist.
 
 ![The image shows students discussing a research poster. Antone Chacartegui is presenting his work on deep reinforcement learning applied to adaptive mesh refinement](/images/antone_poster.jpg)
 
