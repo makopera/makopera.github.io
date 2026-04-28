@@ -27,7 +27,7 @@ In particular, [NUMO Lab's](https://www.boisestate.edu/math/numo-lab/) work has 
 <div align="center">
   <figure>
     <img src="/images/AMR.png" width="400" alt="Adaptive Mesh Refinement in NUMA - work done with Frank Giraldo">
- <figcaption>Adaptive Mesh Refinement in NUMA - work done with Frank Giraldo</figcaption>
+ <figcaption>Adaptive Mesh Refinement in NUMA - work done with <a href="https://frankgiraldo.wixsite.com/mysite"> Frank Giraldo</a></figcaption>
   </figure>
 </div>
 
