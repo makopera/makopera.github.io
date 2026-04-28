@@ -24,7 +24,12 @@ Over the past few years, I’ve been increasingly interested in how ideas from m
 
 In particular, [NUMO Lab's](https://www.boisestate.edu/math/numo-lab/) work has shifted to **adaptive mesh refinement**—methods that decide where a numerical model needs higher resolution, and where it doesn’t. These decisions are crucial: they determine both the accuracy of the simulation and how computationally expensive it becomes. This is a topic which has been a core of my early work with Frank Giraldo at the Naval Postgraduate School, and I am very happy to revisit it now.
 
-<img src="/images/AMR.png" width="250" alt="Adaptive Mesh Refinement in NUMA - work done with Frank Giraldo">
+<div align="center">
+  <figure>
+    <img src="/images/AMR.png" width="400" alt="Adaptive Mesh Refinement in NUMA - work done with Frank Giraldo">
+ <figcaption>Adaptive Mesh Refinement in NUMA - work done with Frank Giraldo</figcaption>
+  </figure>
+</div>
 
 ## What This Project Is About
 
@@ -34,7 +39,12 @@ Instead of relying solely on hand-designed heuristics, the goal is to develop da
 
 It feels like a natural next step—one that builds on work we’ve been developing in the NUMO Lab and opens the door to new directions.
 
-![Conceptual sketch of AMR driven by a neural network deployed on an ocean simulation](/images/DL_AMR.png)
+<div align="center">
+  <figure>
+    <img src="/images/DL_AMR.png" width="400" alt="Conceptual sketch of AMR driven by a neural network deployed on an ocean simulation">
+ <figcaption>Conceptual sketch of AMR driven by a neural network deployed on an ocean simulation</figcaption>
+  </figure>
+</div>
 
 ## Students and Collaboration
 
