@@ -4,7 +4,7 @@ title: "There and Back Again - A Sabbatical at MIT"
 description:
 date: 2026-04-28 10:12:00 +0800
 author: michal
-image: '/images/yemi_poster.jpg'
+image: '/images/ana-garnica-dW4S4ONHUEE-unsplash.jpg'
 tags: ["research", "machine learning", "AMR", "students"]
 tags_color: '#b25642'
 featured: yes
