@@ -10,7 +10,7 @@ tags_color: '#b25642'
 featured: yes
 ---
 
-Photo by [Anna Garnika](href="https://unsplash.com/@garnicanetwork?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](href="https://unsplash.com/photos/a-large-white-building-with-columns-dW4S4ONHUEE?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+Photo by [Ana Garnika](href="https://unsplash.com/@garnicanetwork?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](href="https://unsplash.com/photos/a-large-white-building-with-columns-dW4S4ONHUEE?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 ## A New Direction
 
@@ -18,15 +18,13 @@ I’m excited (and honestly, a bit humbled) to share that I’ve been awarded an
 
 This also connects directly to the work we’ve been building in the [NUMO Lab (Numerical Modeling Lab)](https://www.boisestate.edu/math/numo-lab/) here at Boise State.
 
----
-
 ## Where This Comes From
 
 Over the past few years, I’ve been increasingly interested in how ideas from machine learning can be used not just to analyze data, but to actually *steer* scientific simulations.
 
 In particular, [NUMO Lab's](https://www.boisestate.edu/math/numo-lab/) work has shifted to **adaptive mesh refinement**—methods that decide where a numerical model needs higher resolution, and where it doesn’t. These decisions are crucial: they determine both the accuracy of the simulation and how computationally expensive it becomes. This is a topic which has been a core of my early work with Frank Giraldo at the Naval Postgraduate School, and I am very happy to revisit it now.
 
-![Adaptive Mesh Refinement in NUMA - work done with Frank Giraldo](/images/AMR.png)
+<img src="/images/AMR.png" width="250" alt="Adaptive Mesh Refinement in NUMA - work done with Frank Giraldo">
 
 ## What This Project Is About
 
