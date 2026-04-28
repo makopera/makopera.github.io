@@ -26,7 +26,7 @@ Over the past few years, I’ve been increasingly interested in how ideas from m
 
 In particular, [NUMO Lab's](https://www.boisestate.edu/math/numo-lab/) work has shifted to **adaptive mesh refinement**—methods that decide where a numerical model needs higher resolution, and where it doesn’t. These decisions are crucial: they determine both the accuracy of the simulation and how computationally expensive it becomes. This is a topic which has been a core of my early work with Frank Giraldo at the Naval Postgraduate School, and I am very happy to revisit it now.
 
----
+![Adaptive Mesh Refinement in NUMA - work done with Frank Giraldo](/images/AMR.png)
 
 ## What This Project Is About
 
@@ -36,7 +36,7 @@ Instead of relying solely on hand-designed heuristics, the goal is to develop da
 
 It feels like a natural next step—one that builds on work we’ve been developing in the NUMO Lab and opens the door to new directions.
 
----
+![Conceptual sketch of AMR driven by a neural network deployed on an ocean simulation](/images/DL_AMR.png)
 
 ## Students and Collaboration
 
@@ -56,7 +56,7 @@ Spending time at MIT is, of course, a big part of this. Pierre and his group hav
 
 More broadly, this feels like the start of a longer-term collaboration between our groups.
 
-There’s also something personally meaningful about stepping into a new research space during sabbatical. Back in 2012, I visited Isaac Newton Institute at the Unviersity of Cambridge, and this extended visit was a massive springboard for my then-budding research career. This MIT visit will be a chance to reset, to learn, and to be a beginner again (at least in some aspects). I’m looking forward to that.
+There’s also something personally meaningful about stepping into a new research space during sabbatical. Back in 2012, I have spent four months at the Isaac Newton Institute for Mathematical Sciences at the Unviersity of Cambridge, surrounded by top researchers in mathematical modeling of atmospere and ocean. That experience was a massive inspiration and a springboard for my then-budding research career. This MIT visit, 14 years later, in another Cambridge, will be a chance to reset, to learn, and to be a beginner again (at least in some aspects). I’m looking forward to that.
 
 ---
 
